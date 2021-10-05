@@ -1,0 +1,7 @@
+amazon:
+  access:
+    key: local
+    secrety-key: local
+  region: sa-east-1
+  end-point:
+    url: http://localhost:8042
